@@ -1,0 +1,1 @@
+The purpose of this EDA project is to serve as the foundation for any data analysis, ensuring the dataset is thoroughly understood before proceeding to more advanced modeling or decision-making tasks.
